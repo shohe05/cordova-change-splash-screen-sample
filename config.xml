@@ -40,13 +40,13 @@
         <splash src="./www/img/nginx.png" density="land-mdpi"/>
         <splash src="./www/img/nginx.png" density="land-xhdpi"/>
 
-        <splash src="./www/img/nginx.png" density="port-hdpi"/>
-        <splash src="./www/img/nginx.png" density="port-ldpi"/>
-        <splash src="./www/img/nginx.png" density="port-mdpi"/>
+        <splash src="./www/img/sample.png" density="port-hdpi"/>
+        <splash src="./www/img/logo.png" density="port-ldpi"/>
+        <splash src="./www/img/logo.png" density="port-mdpi"/>
         <splash src="./www/img/nginx.png" density="port-xhdpi"/>
     </platform>
     <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="5000" />
     <!-- <preference name="FadeSplashScreenDuration" value="4"/> -->
     <!-- <preference name="SplashScreenBackgroundColor" value="green" /> -->
 </widget>

@@ -14,9 +14,9 @@
     <splash density="land-ldpi" src="./www/img/nginx.png" />
     <splash density="land-mdpi" src="./www/img/nginx.png" />
     <splash density="land-xhdpi" src="./www/img/nginx.png" />
-    <splash density="port-hdpi" src="./www/img/nginx.png" />
-    <splash density="port-ldpi" src="./www/img/nginx.png" />
-    <splash density="port-mdpi" src="./www/img/nginx.png" />
+    <splash density="port-hdpi" src="./www/img/sample.png" />
+    <splash density="port-ldpi" src="./www/img/logo.png" />
+    <splash density="port-mdpi" src="./www/img/logo.png" />
     <splash density="port-xhdpi" src="./www/img/nginx.png" />
     <name>HelloCordova</name>
     <description>
@@ -34,5 +34,5 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="SplashScreenDelay" value="5000" />
 </widget>
